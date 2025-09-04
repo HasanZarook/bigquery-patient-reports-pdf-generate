@@ -79,14 +79,7 @@ Total avg amount paid to inpatient                     ZZZZ
 Total avg amount paid to outpatient                    AAAA
 ```
 
----
 
-## 🔒 Security Note
-
-⚠️ **Do not upload your service account JSON key to GitHub.**
-Add `*.json` to your `.gitignore` file to keep credentials private.
-
----
 
 ## 👤 Author
 
