@@ -10,7 +10,7 @@ This project uses **Google BigQuery** and **Python** to analyze Medicare dataset
 ```
 .
 ├── renal_failure_report.py           # Main Python script
-├── taskproj-398609-2926bb2e71c9.json # GCP service account key (keep private)
+├── json id                           # GCP service account key (keep private)
 ├── DBLab7_PatientInfo_2021_CE_58.pdf # Generated PDF report
 ├── requirements.txt                  # Dependencies
 └── README.md                         # Documentation
